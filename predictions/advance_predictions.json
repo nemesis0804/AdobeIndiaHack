@@ -1,0 +1,1625 @@
+{
+    "title": "Artificial Intelligence & Machine Learning Program",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Specially designed for Software Developers and Tech Professionals",
+            "page": 1
+        },
+        {
+            "level": "H4",
+            "text": "1",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "How to make an Impact",
+            "page": 2
+        },
+        {
+            "level": "H4",
+            "text": "Table Of Content",
+            "page": 2
+        },
+        {
+            "level": "H4",
+            "text": "2",
+            "page": 2
+        },
+        {
+            "level": "H4",
+            "text": "3",
+            "page": 2
+        },
+        {
+            "level": "H4",
+            "text": "4",
+            "page": 2
+        },
+        {
+            "level": "H4",
+            "text": "5",
+            "page": 2
+        },
+        {
+            "level": "H4",
+            "text": "6",
+            "page": 2
+        },
+        {
+            "level": "H4",
+            "text": "7",
+            "page": 2
+        },
+        {
+            "level": "H4",
+            "text": "8",
+            "page": 2
+        },
+        {
+            "level": "H4",
+            "text": "9",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Program Curriculum",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "10",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "How to make an",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Program Summary",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Training Mode 100% Live Online & Hybrid (Online + Classroom)",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "3",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Project Based Learning",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Why is project-based learning effective?",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Will the projects be guided?",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "How does project certification help in career transition?",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "About Course",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "Hiring Partners 350+",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "70%",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "A I",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "of companies are likely to adopt GenAI in next 5 years, to",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "n",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "e",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "G",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "h",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "i t",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "w",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "A I",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "n",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "e",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "G",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "t",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "u",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "o",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "h",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "i t",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "Program Eligibility",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Tech professional with min 1+ Year of Experience",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Software Engineer",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Executives (IT domain)",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Program Outcome: What’s in it for you?",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Hands-On Experience With Project Certification",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "AI/ML + DSA + System Design + GenAI",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "Learn AI and ML in Depth",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Why choose Learnbay?",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "A unique program for Tech Professionals!",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Project Based Learning 1.",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Live Projects from industry",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Dedicated Project Mentor",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Domain Specialization 2.",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Make your previous experience count",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Technology Retail",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Capstone Project Certification 3.",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "1:1 Doubt Clearing Session 4.",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "5.",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "Training Mode",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "New",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "Hybrid classes",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "100% Live online classes",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "Placement assistance 6.",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "Resume Optimization Interview Preparation",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "Interview Opportunities Career Counseling",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "Others Vs Learnbay",
+            "page": 11
+        },
+        {
+            "level": "H1",
+            "text": "OTHERS",
+            "page": 11
+        },
+        {
+            "level": "H2",
+            "text": "100% Online & Hybrid (Online + Classroom)",
+            "page": 11
+        },
+        {
+            "level": "H2",
+            "text": "Included in Latest Curriculum",
+            "page": 11
+        },
+        {
+            "level": "H2",
+            "text": "Academics and Trainers",
+            "page": 11
+        },
+        {
+            "level": "H2",
+            "text": "Practice with Live Projects and Team Management",
+            "page": 11
+        },
+        {
+            "level": "H1",
+            "text": "Alumni Spotlight",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "Learnbay has helped me a lot to learn data science applications in the e-",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "Mechanical Domain",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "Data Scientist @",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "Data Scientist",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "The course structure is excellent with emphasis on concept building and",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "Telecom Domain",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "Data Scientist @",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "Thanks to the Learnbay data science course & excellent guidance, I was",
+            "page": 13
+        },
+        {
+            "level": "H3",
+            "text": "Mohd. Israr",
+            "page": 13
+        },
+        {
+            "level": "H2",
+            "text": "Mechanical Domain Data Scientist @",
+            "page": 13
+        },
+        {
+            "level": "H2",
+            "text": "Data Scientist",
+            "page": 13
+        },
+        {
+            "level": "H2",
+            "text": "When I joined Learnbay I did not have any knowledge apart from the very",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "Success Story",
+            "page": 14
+        },
+        {
+            "level": "H2",
+            "text": "Mahasweta Sarkar",
+            "page": 14
+        },
+        {
+            "level": "H2",
+            "text": "Manoj Kuna",
+            "page": 14
+        },
+        {
+            "level": "H2",
+            "text": "Bhavin Shah",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "Get certified and accelerate your career growth",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "Microsoft Certificate in Azure AI Fundamentals",
+            "page": 15
+        },
+        {
+            "level": "H2",
+            "text": "Gain an internationally recognized Microsoft certification , proving your expertise in cloud technologies.",
+            "page": 15
+        },
+        {
+            "level": "H2",
+            "text": "Achieve an industry-recognized IBM certification , showcasing your proficiency in AI and Machine Learning",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "Add On",
+            "page": 15
+        },
+        {
+            "level": "H4",
+            "text": "IBM Capstone Project Certificate",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "Program Fee",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "Live online classes",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "Hybrid Classes",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "Program Fee ₹ 1,15,000 + 18% GST",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "₹ 6,388/ month",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "₹ 7,222/ month",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "Structured Admission Process",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "1 2",
+            "page": 16
+        },
+        {
+            "level": "H2",
+            "text": "Apply Online",
+            "page": 16
+        },
+        {
+            "level": "H2",
+            "text": "Profile Review",
+            "page": 16
+        },
+        {
+            "level": "H2",
+            "text": "Enroll",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "Program Curriculum",
+            "page": 17
+        },
+        {
+            "level": "H1",
+            "text": "A unique program for Tech Professionals!",
+            "page": 17
+        },
+        {
+            "level": "H2",
+            "text": "www.learnbay.co",
+            "page": 17
+        },
+        {
+            "level": "H1",
+            "text": "Journey to Upskilling",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Module 0 8 hrs",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Python Bootcamp for Non-Programmers",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Python for AI & Machine Learning",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Term 2 70 hrs",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Statistics and Machine Learning + GenAI",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Term 3 60 hrs",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "Data Management, Visualization and Analysis",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "Term 4",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "Term 5",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "Term 6",
+            "page": 20
+        },
+        {
+            "level": "H1",
+            "text": "270+ hours",
+            "page": 20
+        },
+        {
+            "level": "H1",
+            "text": "Python Bootcamp for Non-Programmers",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "Module 0",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "Topics Covered",
+            "page": 21
+        },
+        {
+            "level": "H2",
+            "text": "Installation & Setup",
+            "page": 21
+        },
+        {
+            "level": "H2",
+            "text": "Basic Syntax & I/O",
+            "page": 21
+        },
+        {
+            "level": "H2",
+            "text": "Control Structures",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "MINI PROJECT",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "Number of Projects with dedicated mentor 4 practice projects 2 python projects on real data",
+            "page": 22
+        },
+        {
+            "level": "H1",
+            "text": "Section 1 - Core Python Basics",
+            "page": 22
+        },
+        {
+            "level": "H2",
+            "text": "Python Syntax and Code Structure",
+            "page": 22
+        },
+        {
+            "level": "H2",
+            "text": "Data Types and Control Flow",
+            "page": 22
+        },
+        {
+            "level": "H2",
+            "text": "Data Structures",
+            "page": 22
+        },
+        {
+            "level": "H1",
+            "text": "GROUP PROJECT DURATION 2 HRS",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "FINANCE DOMAIN",
+            "page": 23
+        },
+        {
+            "level": "H2",
+            "text": "Expense Tracker",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "Section 2 - Data analytics Using Python",
+            "page": 23
+        },
+        {
+            "level": "H2",
+            "text": "File I/O An d Exceptional Handling and Regular Expression",
+            "page": 23
+        },
+        {
+            "level": "H2",
+            "text": "Basic Web Scraping for Data Analytics",
+            "page": 23
+        },
+        {
+            "level": "H2",
+            "text": "Data Analysis using Pandas",
+            "page": 24
+        },
+        {
+            "level": "H2",
+            "text": "Data Visualization using Matplotlib",
+            "page": 24
+        },
+        {
+            "level": "H2",
+            "text": "Data Visualization using Seaborn",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "PORTFOLIO PROJECT DURATION 2 HRS",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "DOMAIN PROJECT DURATION 2 HRS",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "FINANCE DOMAIN",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "Stock Price Analysis with Web Scraping",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "Capstone Project",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "BFSI DOMAIN",
+            "page": 25
+        },
+        {
+            "level": "H2",
+            "text": "Customer Transaction Analysis",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "Seaborn",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "Section 1 - Statistics",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "Fundamentals of Math and Probability",
+            "page": 26
+        },
+        {
+            "level": "H2",
+            "text": "All about Population & Sample",
+            "page": 26
+        },
+        {
+            "level": "H2",
+            "text": "Introduction to Statistics, Statistical Thinking",
+            "page": 26
+        },
+        {
+            "level": "H2",
+            "text": "Descriptive Statistics",
+            "page": 26
+        },
+        {
+            "level": "H2",
+            "text": "Inferential Statistics",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "MINI PROJECT DURATION 2 HRS",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "Probability Analysis in Quality Control",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "Section 2 - Advance Statistics",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "Hypothesis Testing",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "Linear Algebra",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "EDA",
+            "page": 28
+        },
+        {
+            "level": "H1",
+            "text": "ECOMMERCE DOMAIN",
+            "page": 28
+        },
+        {
+            "level": "H2",
+            "text": "MINI PROJECT",
+            "page": 28
+        },
+        {
+            "level": "H2",
+            "text": "Hypothesis Testing on Website Conversion Rates",
+            "page": 28
+        },
+        {
+            "level": "H1",
+            "text": "RESEARCH PROJECT",
+            "page": 28
+        },
+        {
+            "level": "H2",
+            "text": "Linear Algebra in Image Transformation",
+            "page": 28
+        },
+        {
+            "level": "H2",
+            "text": "Section 3 - Machine Learning",
+            "page": 29
+        },
+        {
+            "level": "H2",
+            "text": "Data Preprocessing",
+            "page": 29
+        },
+        {
+            "level": "H2",
+            "text": "Evaluation Metrics for Classification model",
+            "page": 29
+        },
+        {
+            "level": "H2",
+            "text": "Customer Churn Prediction with Logistic Regression",
+            "page": 30
+        },
+        {
+            "level": "H1",
+            "text": "RESEARCH PROJECT DURATION 2 HRS",
+            "page": 30
+        },
+        {
+            "level": "H2",
+            "text": "Handwritten Digit Classification using K-Nearest Neighbors",
+            "page": 30
+        },
+        {
+            "level": "H2",
+            "text": "Section 4 - Advance Machine Learning Concepts",
+            "page": 30
+        },
+        {
+            "level": "H2",
+            "text": "K Means and Hierarchical Clustering",
+            "page": 31
+        },
+        {
+            "level": "H2",
+            "text": "Hierarchical Clustering",
+            "page": 31
+        },
+        {
+            "level": "H2",
+            "text": "Principal Component Analysis(PCA)",
+            "page": 31
+        },
+        {
+            "level": "H2",
+            "text": "Support Vector Machine(SVM)",
+            "page": 31
+        },
+        {
+            "level": "H2",
+            "text": "XGBoost Model",
+            "page": 31
+        },
+        {
+            "level": "H1",
+            "text": "HANDS-ON LAB PROJECT DURATION 1.5 HRS",
+            "page": 31
+        },
+        {
+            "level": "H2",
+            "text": "Credit Risk Prediction with Decision Trees and Random Forests",
+            "page": 31
+        },
+        {
+            "level": "H2",
+            "text": "Customer Segmentation using K-Means Clustering and PCA",
+            "page": 32
+        },
+        {
+            "level": "H2",
+            "text": "Section 5 - GenAI",
+            "page": 32
+        },
+        {
+            "level": "H1",
+            "text": "HANDS-ON LAB PROJECT DURATION 1.5 HRS",
+            "page": 32
+        },
+        {
+            "level": "H2",
+            "text": "Text Generation using GPT-2",
+            "page": 32
+        },
+        {
+            "level": "H1",
+            "text": "Predictive Maintenance for Industrial Machinery",
+            "page": 32
+        },
+        {
+            "level": "H1",
+            "text": "Capstone Project",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "Numpy",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "DOMAIN-SPECIFIC PROJECT DURATION 2 HRS",
+            "page": 33
+        },
+        {
+            "level": "H2",
+            "text": "Customer Segmentation and Churn Prediction",
+            "page": 33
+        },
+        {
+            "level": "H3",
+            "text": "Seaborn",
+            "page": 33
+        },
+        {
+            "level": "H3",
+            "text": "Matplotlib",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "Number of Projects with dedicated mentor 7 practice projects 2 capstone projects on real data",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "Advance SQL",
+            "page": 34
+        },
+        {
+            "level": "H2",
+            "text": "NoSQL, HBase & MongoDB",
+            "page": 34
+        },
+        {
+            "level": "H2",
+            "text": "JSON Data & CRUD",
+            "page": 34
+        },
+        {
+            "level": "H2",
+            "text": "Programming with SQL",
+            "page": 34
+        },
+        {
+            "level": "H2",
+            "text": "Programming with SQL",
+            "page": 34
+        },
+        {
+            "level": "H1",
+            "text": "RESEARCH PROJECT DURATION 2 HRS",
+            "page": 35
+        },
+        {
+            "level": "H2",
+            "text": "Student Academic Performance Tracking using SQL and MongoDB",
+            "page": 35
+        },
+        {
+            "level": "H2",
+            "text": "Section 2 - MongoDB",
+            "page": 35
+        },
+        {
+            "level": "H2",
+            "text": "Introduction to MongoDB",
+            "page": 35
+        },
+        {
+            "level": "H2",
+            "text": "MongoDB (Advance)",
+            "page": 35
+        },
+        {
+            "level": "H1",
+            "text": "HANDS-ON LAB PROJECT DURATION 1.5 HRS",
+            "page": 36
+        },
+        {
+            "level": "H2",
+            "text": "Marketing Campaign Analytics with MongoDB",
+            "page": 36
+        },
+        {
+            "level": "H1",
+            "text": "RESEARCH PROJECT DURATION 2 HRS",
+            "page": 36
+        },
+        {
+            "level": "H2",
+            "text": "E-commerce Product Catalog Management",
+            "page": 36
+        },
+        {
+            "level": "H2",
+            "text": "Section 3 - PoweBI",
+            "page": 36
+        },
+        {
+            "level": "H2",
+            "text": "Assignments",
+            "page": 37
+        },
+        {
+            "level": "H1",
+            "text": "HANDS-ON LAB PROJECT DURATION 1.5 HRS",
+            "page": 37
+        },
+        {
+            "level": "H1",
+            "text": "RESEARCH PROJECT DURATION 2 HRS",
+            "page": 37
+        },
+        {
+            "level": "H2",
+            "text": "What is Spark",
+            "page": 38
+        },
+        {
+            "level": "H2",
+            "text": "Section 6 - Time Series",
+            "page": 38
+        },
+        {
+            "level": "H2",
+            "text": "Introduction to Time Series Forecasting",
+            "page": 38
+        },
+        {
+            "level": "H2",
+            "text": "Introduction to ARIMA Models",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "HANDS-ON LAB PROJECT DURATION 1.5 HRS",
+            "page": 38
+        },
+        {
+            "level": "H2",
+            "text": "Time Series Forecasting of Retail Sales using Apache Spark",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "DOMAIN-SPECIFIC PROJECT DURATION 2 HRS",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "Capstone Project",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "Employee Performance and Feedback Management System",
+            "page": 39
+        },
+        {
+            "level": "H2",
+            "text": "Tools covered: MySQL, MongoDB, Power BI, DAX",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "DOMAIN-SPECIFIC PROJECT DURATION 2 HRS DATA ANALYSIS",
+            "page": 39
+        },
+        {
+            "level": "H2",
+            "text": "E-Commerce Data Warehouse and Reporting System",
+            "page": 39
+        },
+        {
+            "level": "H2",
+            "text": "Tools covered: PostgreSQL, MongoDB, Power BI, DAX",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "Number of Projects with dedicated mentor 7 practice projects 2 capstone project to work on real data",
+            "page": 40
+        },
+        {
+            "level": "H2",
+            "text": "Section 1 - Deep Learning using TensorFlow",
+            "page": 40
+        },
+        {
+            "level": "H2",
+            "text": "Introduction to Deep Learning and TensorFlow",
+            "page": 40
+        },
+        {
+            "level": "H2",
+            "text": "TensorFlow Classification Examples",
+            "page": 40
+        },
+        {
+            "level": "H2",
+            "text": "Understanding Neural Networks With TensorFlow",
+            "page": 40
+        },
+        {
+            "level": "H2",
+            "text": "Introducing Recurrent Neural Networks skflow: RNNs in skflow",
+            "page": 41
+        },
+        {
+            "level": "H2",
+            "text": "Understanding Of TFLearn APIs",
+            "page": 41
+        },
+        {
+            "level": "H2",
+            "text": "Understanding Keras API for implementing Neural Networks",
+            "page": 41
+        },
+        {
+            "level": "H2",
+            "text": "Understanding Keras API for implementing Neural Networks",
+            "page": 41
+        },
+        {
+            "level": "H2",
+            "text": "Image Classification with CNN",
+            "page": 42
+        },
+        {
+            "level": "H1",
+            "text": "GROUP PROJECT DURATION 2.5 HRS",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "Time Series Forecasting with LSTM",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "Tools covered: TensorFlow, Keras, Pandas, NumPy",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "Section 2 - Natural Language Processing (NLP)",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "Text Analysis",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "Stemming",
+            "page": 43
+        },
+        {
+            "level": "H1",
+            "text": "GROUP PROJECT",
+            "page": 43
+        },
+        {
+            "level": "H2",
+            "text": "Sentiment Analysis on Social Media Data",
+            "page": 43
+        },
+        {
+            "level": "H2",
+            "text": "Tools covered: TensorFlow, Hugging Face, NLTK",
+            "page": 43
+        },
+        {
+            "level": "H1",
+            "text": "CAPSTONE PROJECT",
+            "page": 43
+        },
+        {
+            "level": "H2",
+            "text": "Image Filtering",
+            "page": 44
+        },
+        {
+            "level": "H2",
+            "text": "Image Processing",
+            "page": 44
+        },
+        {
+            "level": "H2",
+            "text": "Image Classification and segmentation",
+            "page": 44
+        },
+        {
+            "level": "H1",
+            "text": "CAPSTONE PROJECT DURATION 2.5 HRS",
+            "page": 44
+        },
+        {
+            "level": "H2",
+            "text": "Object Detection with YOLO",
+            "page": 44
+        },
+        {
+            "level": "H2",
+            "text": "What is Reinforcement Learning - Basics",
+            "page": 45
+        },
+        {
+            "level": "H2",
+            "text": "Approximation Methods for Reinforcement Learning",
+            "page": 45
+        },
+        {
+            "level": "H1",
+            "text": "CAPSTONE PROJECT DURATION 2.5 HRS",
+            "page": 45
+        },
+        {
+            "level": "H2",
+            "text": "Autonomous Driving Simulation with Deep Q-Network (DQN)",
+            "page": 45
+        },
+        {
+            "level": "H2",
+            "text": "Setting up the Environment",
+            "page": 46
+        },
+        {
+            "level": "H2",
+            "text": "Data Preparation and Feature Engineering",
+            "page": 46
+        },
+        {
+            "level": "H2",
+            "text": "Model Training and Evaluation",
+            "page": 46
+        },
+        {
+            "level": "H2",
+            "text": "Tools covered: Flask, Python, Docker.",
+            "page": 46
+        },
+        {
+            "level": "H2",
+            "text": "Game Environment Solver with Q-Learning",
+            "page": 46
+        },
+        {
+            "level": "H1",
+            "text": "Capstone Project",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "AI-Powered Customer Support Chatbot",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "Tools covered: OpenAI GPT-3, TensorFlow , Flask, SageMaker, Docker",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "DOMAIN-SPECIFIC PROJECT DURATION 2 HRS",
+            "page": 47
+        },
+        {
+            "level": "H2",
+            "text": "E-Commerce Image Classification and Sales Forecasting",
+            "page": 47
+        },
+        {
+            "level": "H2",
+            "text": "Tools covered: TensorFlow , Flask, AWS SageMaker, Docker, Jenkins",
+            "page": 47
+        },
+        {
+            "level": "H2",
+            "text": "Note: You can attain the project session in 2 modes",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "Data Structure and Algorithm",
+            "page": 48
+        },
+        {
+            "level": "H1",
+            "text": "TERM 5",
+            "page": 48
+        },
+        {
+            "level": "H1",
+            "text": "Module Duration: 40-50 hrs of live Instructor-led classes. 4 real time projects to practice all the concepts",
+            "page": 48
+        },
+        {
+            "level": "H2",
+            "text": "Section 1: Fundamentals of Data Structures",
+            "page": 48
+        },
+        {
+            "level": "H2",
+            "text": "Introduction to Data Structures",
+            "page": 48
+        },
+        {
+            "level": "H1",
+            "text": "CAPSTONE PROJECT DURATION 2.5 HRS",
+            "page": 48
+        },
+        {
+            "level": "H2",
+            "text": "Library Management System using Stacks and Queues",
+            "page": 48
+        },
+        {
+            "level": "H2",
+            "text": "Tools covered: Python/Java",
+            "page": 48
+        },
+        {
+            "level": "H2",
+            "text": "Section 2: Advanced Data Structures",
+            "page": 48
+        },
+        {
+            "level": "H2",
+            "text": "Trees",
+            "page": 48
+        },
+        {
+            "level": "H2",
+            "text": "Graphs",
+            "page": 48
+        },
+        {
+            "level": "H1",
+            "text": "CAPSTONE PROJECT DURATION 2.5 HRS",
+            "page": 49
+        },
+        {
+            "level": "H1",
+            "text": "City Navigation System using Graph Algorithms",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Tools covered: Python, NetworkX",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Section 3: Sorting and Searching Algorithms",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Sorting Algorithms",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Searching Algorithms",
+            "page": 49
+        },
+        {
+            "level": "H1",
+            "text": "CAPSTONE PROJECT DURATION 2.5 HRS",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Tools covered: Python/Java",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Section 4: Dynamic Programming and Greedy Algorithms",
+            "page": 49
+        },
+        {
+            "level": "H1",
+            "text": "CAPSTONE PROJECT DURATION 2.5 HRS",
+            "page": 50
+        },
+        {
+            "level": "H2",
+            "text": "Tools covered: Python/Java",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "DOMAIN-SPECIFIC PROJECT DURATION 3.5 HRS",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "Capstone Project",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "TERM 6 GenAI for Software Developers",
+            "page": 51
+        },
+        {
+            "level": "H2",
+            "text": "Introduction to the Program",
+            "page": 51
+        },
+        {
+            "level": "H2",
+            "text": "Generative Texts",
+            "page": 51
+        },
+        {
+            "level": "H2",
+            "text": "Generative Images",
+            "page": 51
+        },
+        {
+            "level": "H2",
+            "text": "Generative Videos",
+            "page": 51
+        },
+        {
+            "level": "H2",
+            "text": "ChatGPT Alternatives",
+            "page": 52
+        },
+        {
+            "level": "H2",
+            "text": "OpenAI APIs",
+            "page": 52
+        },
+        {
+            "level": "H2",
+            "text": "Transformer & LLMs (Large Language Models)",
+            "page": 52
+        },
+        {
+            "level": "H2",
+            "text": "Generative Adversarial Networks (GAN) for Image Generation",
+            "page": 52
+        },
+        {
+            "level": "H2",
+            "text": "Projects and Assignments",
+            "page": 52
+        },
+        {
+            "level": "H2",
+            "text": "AI-Powered Code Assistant",
+            "page": 53
+        },
+        {
+            "level": "H1",
+            "text": "GROUP PROJECT DURATION 3 HRS",
+            "page": 53
+        },
+        {
+            "level": "H2",
+            "text": "AI Image Generator for Web Applications",
+            "page": 53
+        },
+        {
+            "level": "H3",
+            "text": "Capstone Project",
+            "page": 53
+        },
+        {
+            "level": "H2",
+            "text": "AI-Powered Video Creator",
+            "page": 53
+        },
+        {
+            "level": "H1",
+            "text": "Real-time Industrial Projects",
+            "page": 54
+        },
+        {
+            "level": "H4",
+            "text": "#1 #2",
+            "page": 54
+        },
+        {
+            "level": "H4",
+            "text": "Predictive Maintenance for Electric Vehicles",
+            "page": 54
+        },
+        {
+            "level": "H4",
+            "text": "#3 #4",
+            "page": 54
+        },
+        {
+            "level": "H4",
+            "text": "Tools: Tools:",
+            "page": 54
+        },
+        {
+            "level": "H1",
+            "text": "Real-time Industrial Projects",
+            "page": 55
+        },
+        {
+            "level": "H1",
+            "text": "#5 #6",
+            "page": 55
+        },
+        {
+            "level": "H4",
+            "text": "Tools:",
+            "page": 55
+        },
+        {
+            "level": "H4",
+            "text": "#7 #8",
+            "page": 55
+        },
+        {
+            "level": "H4",
+            "text": "Tools: Tools:",
+            "page": 55
+        },
+        {
+            "level": "H1",
+            "text": "Real-time Industrial Projects",
+            "page": 56
+        },
+        {
+            "level": "H1",
+            "text": "#9 #10",
+            "page": 56
+        },
+        {
+            "level": "H1",
+            "text": "#11 #12",
+            "page": 56
+        },
+        {
+            "level": "H4",
+            "text": "AI-based Financial Portfolio Optimization",
+            "page": 56
+        },
+        {
+            "level": "H4",
+            "text": "AI tool for monitoring mental health",
+            "page": 56
+        },
+        {
+            "level": "H4",
+            "text": "Tools: Tools:",
+            "page": 56
+        },
+        {
+            "level": "H1",
+            "text": "Thank you!",
+            "page": 57
+        },
+        {
+            "level": "H1",
+            "text": "www.learnbay.co",
+            "page": 57
+        }
+    ]
+}

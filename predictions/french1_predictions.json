@@ -1,0 +1,115 @@
+{
+    "title": "Guide d’Apprentissage du Français",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Table des matières",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "1 Introduction",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "2 Grammaire de Base",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "2.1 Les Articles",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "2.2 Les Verbes",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "3 Vocabulaire Essentiel",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "3.1 La Vie Quotidienne",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "3.2 Les Nombres",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "4 Prononciation",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "4.1 Les Voyelles",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "4.2 Les Liaisons",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "5 Culture Française",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "5.1 La Cuisine",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "5.2 Les Fêtes",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "6 Exercices Pratiques",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "6.1 Complétez les Phrases",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Remplissez les blancs avec le bon article :",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "6.2 Conjuguez le Verbe",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "7 Ressources Supplémentaires",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Pour approfondir votre apprentissage, explorez ces ressources :",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "8 Conclusion",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "9 Notes",
+            "page": 8
+        }
+    ]
+}

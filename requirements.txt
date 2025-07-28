@@ -1,0 +1,13 @@
+# PDF and Text Processing
+pymupdf
+langdetect
+
+# Machine Learning and Data Handling
+numpy
+xgboost
+joblib
+scikit-learn
+
+# NLP Embeddings (for the non-lite feature extractor)
+sentence-transformers
+
